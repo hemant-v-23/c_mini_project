@@ -26,6 +26,6 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`264162` | hemant v  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`264162` | hemant v  | Feature A, B etc    | can't bluid the unity     | No   |15  |15     
    
 | ![C/C++ CI](https://github.com/hemant-v-23/c_mini_project/blob/main/.github/workflows/c-cpp.yml)   | [![Unity - Unit Testing](https://github.com/SuprabhaBhat/LnT-C-MiniProject-/blob/main/.github/unity.yml/badge.svg)]   | 
