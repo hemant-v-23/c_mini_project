@@ -1,0 +1,12 @@
+# -*- MakeFile -*-
+
+#target: dependencies
+#	action
+
+all: calculator output
+
+calculator: calculator
+	cc -c calculator.c -lm
+
+output: output
+	gcc calculator.c calculator_test.c -lm -l cmocka -o output
